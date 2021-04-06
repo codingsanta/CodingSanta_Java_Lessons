@@ -1,7 +1,8 @@
 /*
- * This file contains the starter code and the sample input for reference
+ * This file contains the starter code and the sample input for reference.
+ * Make sure to change the file name to "Problem1.java"!
  */
-public class Students
+public class Problem1
 {
   public static void main(String [] args)
   {
