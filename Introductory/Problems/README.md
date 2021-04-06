@@ -12,5 +12,5 @@ Good luck!
 | Purpose | Link |
 | ------ | ------ |
 | Youtube | [Coding Santa](https://www.youtube.com/channel/UCnCLpkPDZAj3grrIJODvfEQ) |
-| Website | [Coding Santa Home Page] (https://www.codingsanta.org) |
-| Github | [Introductory Lessons] (https://github.com/codingsanta/CodingSanta_Java_Lessons/tree/main/Introductory) |
+| Website | [Coding Santa Home Page](https://www.codingsanta.org) |
+| Github | [Introductory Lessons](https://github.com/codingsanta/CodingSanta_Java_Lessons/tree/main/Introductory) |
