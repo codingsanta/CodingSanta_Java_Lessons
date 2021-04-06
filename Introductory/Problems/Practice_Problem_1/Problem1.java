@@ -10,8 +10,6 @@ public class Problem1
 		int numberOfTimes = input/3;
 		int dontFit = input % 3; 
 		
-		System.out.print("He can make " + numberOfTimes + 
-				" full groups and there are " + dontFit 
-				+ " remaining students");
+		System.out.print("He can make " + numberOfTimes + " full groups and there are " + dontFit + " remaining students");
 	}
 }
