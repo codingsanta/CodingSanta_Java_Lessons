@@ -1,4 +1,5 @@
 Coding Santa 2021
+
 Problem Credits: Lance Fuchia
 # Practice Problem 1: Teacher James's Students
 ## Topics Included: Printing, Variables, Math Problems, Input and Output
