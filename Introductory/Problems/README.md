@@ -11,12 +11,6 @@ Good luck!
 ## Helpful Links
 | Purpose | Link |
 | ------ | ------ |
-| Youtube | [CodingSanta][ytlink] |
-| Website | [www.CodingSanta.org] [weblink] |
-| Github | [Introductory Lessons] [gitlink] |
-
-[//]: # (links)
-
-[ytlink] : <https://www.youtube.com/channel/UCnCLpkPDZAj3grrIJODvfEQ>
-[weblink] : <https://www.codingsanta.org>
-[Github] : <https://github.com/codingsanta/CodingSanta_Java_Lessons/tree/main/Introductory>
+| Youtube | [Coding Santa](https://www.youtube.com/channel/UCnCLpkPDZAj3grrIJODvfEQ) |
+| Website | [Coding Santa Home Page] (https://www.codingsanta.org) |
+| Github | [Introductory Lessons] (https://github.com/codingsanta/CodingSanta_Java_Lessons/tree/main/Introductory) |
