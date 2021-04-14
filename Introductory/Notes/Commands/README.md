@@ -17,7 +17,7 @@
 
 #### More:
 - [list of all commands](https://ss64.com/bash/)
-- [further reading (slightly advanced!)](https://www.win.tue.nl/~wstomv/edu/sc-hse/downloads/general/javanotes7-linked.pdf)
+- [pg. 55 for further reading (slightly advanced!)](https://www.win.tue.nl/~wstomv/edu/sc-hse/downloads/general/javanotes7-linked.pdf)
 
 
 
