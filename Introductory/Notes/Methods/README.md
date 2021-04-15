@@ -3,7 +3,7 @@
 So what exactly are methods? Methods are chunks of code that run after they are "called". Methods help to reuse code and perform a certain process. 
 
 ### Method Declaration
-accessSpecifier [static] returnType methodName (parameters)
+	accessSpecifier [static] returnType methodName (parameters)
 
 This is a standard method declaration for the purposes of this java curriculum.
 
