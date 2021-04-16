@@ -1,8 +1,9 @@
-# Practice Problem 2
+# Practice Problem 2: Teacher James and the Maze
+---
 
 Problem Credits: Chiran Arumugam
 
-Topics Included: Variables, Input and Output, Methods, Mathematical Expressions
+## Topics Included: Variables, Input and Output, Methods, Mathematical Expressions
 
 ### Problem Statement
 
