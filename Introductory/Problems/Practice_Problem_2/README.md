@@ -3,7 +3,6 @@ Coding Santa 2021
 Problem Credits: Chiran Arumugam
 
 # Practice Problem 2: Teacher James and the Maze
----
 
 ## Topics Included: Variables, Input and Output, Methods, Mathematical Expressions
 
