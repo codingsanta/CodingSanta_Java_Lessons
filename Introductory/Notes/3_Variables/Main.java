@@ -1,6 +1,6 @@
 /*
  * Here is the code used in this video!
- * Make sure to change the file name to "Main" 
+ * Make sure to change the file name to "Main.java" 
  * if you run this program.
 */
 
