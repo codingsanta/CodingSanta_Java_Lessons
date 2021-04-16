@@ -1,7 +1,9 @@
-# Practice Problem 2: Teacher James and the Maze
----
+Coding Santa 2021
 
 Problem Credits: Chiran Arumugam
+
+# Practice Problem 2: Teacher James and the Maze
+---
 
 ## Topics Included: Variables, Input and Output, Methods, Mathematical Expressions
 
@@ -51,3 +53,5 @@ Passcode: 12 210.0 2 Santa1435
 ```
 
 ---
+
+Contact us about questions, errors, concerns: coding.santa2020@gmail.com
