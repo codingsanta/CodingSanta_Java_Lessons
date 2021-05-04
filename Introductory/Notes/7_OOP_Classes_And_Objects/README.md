@@ -1,4 +1,4 @@
-description/notes here
+OOP stands for Object-Oriented Programming, and Java is an OOP language.
 
 Website: https://www.codingsanta.org
 
