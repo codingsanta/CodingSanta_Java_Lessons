@@ -1,4 +1,5 @@
 OOP stands for Object-Oriented Programming, and Java is an OOP language.
+
 // put ur script or notes here
 
     code goes like this
