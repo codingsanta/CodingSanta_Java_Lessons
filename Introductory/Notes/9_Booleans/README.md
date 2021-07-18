@@ -4,3 +4,7 @@
     boolean incorrect = false;
   
 The variables correct and incorrect store the values of true and false, and display their corresponding values when printed to the terminal.
+
+Website: https://www.codingsanta.org
+
+Contact for questions, concerns, errors: coding.santa2020@gmail.com
